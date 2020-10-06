@@ -1,0 +1,24 @@
+*{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+body{
+    background-color: #4f565e;
+}
+code{
+    font-size: 135% !important;
+}
+.navbar{
+    background-color:#232930f5 !important ;
+}
+.carousel-inner img{
+    width: 100%;
+    height: 100%;
+}
+.carousel-inner h1{
+    text-shadow: 1px 1px black;
+
+}
+.carousel-inner .carousel-caption{
+    background: rgba(200, 200, 200, 0.3);
+    border-radius: 7px;
+}
