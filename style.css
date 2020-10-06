@@ -5,7 +5,7 @@ body{
     background-color: #4f565e;
 }
 code{
-    font-size: 135% !important;
+    font-size: 125% !important;
 }
 .navbar{
     background-color:#232930f5 !important ;
@@ -22,3 +22,8 @@ code{
     background: rgba(200, 200, 200, 0.3);
     border-radius: 7px;
 }
+.myicon{
+    height: 50px;
+    margin-left: 100px;
+}
+
